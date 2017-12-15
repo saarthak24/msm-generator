@@ -36,6 +36,5 @@ class EchoBot(Client):
         # If you're not the author, echo
 
 
-client = EchoBot("bobmemer@letsmail9.com", "bobmemer")
+client = EchoBot("boshalfoshal2@gmail.com", "kyleslongdong")
 client.listen()
-
